@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mockforge"
+version = "0.1.0"
+authors = [
+    {name="Smithin J Raj", email="smithinjraj@gmail.com"},
+]
+description = "An O(1) memory-safe synthetic data generator and database seeder"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Testing",
+]
+dependencies = [
+    "Faker>=20.0.0",
+    "rstr>=3.2.0",
+    "SQLAlchemy>=2.0.0"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/SmithinJRaj/mock-data-forge"
+"Bug Tracker" = "https://github.com/SmithinJRaj/mock-data-forge/issues"

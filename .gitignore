@@ -1,0 +1,4 @@
+test.db
+mock_test.db
+failed_rows.json
+__pycache__/
