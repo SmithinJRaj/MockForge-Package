@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mockforge"
+name = "mockforge-engine"
 version = "0.1.0"
 authors = [
     {name="Smithin J Raj", email="smithinjraj@gmail.com"},

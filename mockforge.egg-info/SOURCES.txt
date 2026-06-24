@@ -1,9 +1,0 @@
-pyproject.toml
-mockforge/__init__.py
-mockforge/engine.py
-mockforge.egg-info/PKG-INFO
-mockforge.egg-info/SOURCES.txt
-mockforge.egg-info/dependency_links.txt
-mockforge.egg-info/requires.txt
-mockforge.egg-info/top_level.txt
-tests/test.py

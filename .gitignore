@@ -2,3 +2,5 @@ test.db
 mock_test.db
 failed_rows.json
 __pycache__/
+mockforge_engine.egg-info/
+dist/
